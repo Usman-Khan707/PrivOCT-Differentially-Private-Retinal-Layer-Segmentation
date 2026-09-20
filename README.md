@@ -6,7 +6,7 @@
   <img alt="Task" src="https://img.shields.io/badge/task-OCT%20layer%20segmentation-blue">
   <img alt="Privacy" src="https://img.shields.io/badge/privacy-DP--SGD%20(Opacus)-green">
   <img alt="Framework" src="https://img.shields.io/badge/framework-PyTorch-orange">
-  <img alt="License" src="https://img.shields.io/badge/license-GPL--3.0-lightgrey">
+ 
 </p>
 
 ---
